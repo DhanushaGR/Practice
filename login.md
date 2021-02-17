@@ -1,6 +1,23 @@
-done 
-swap
-hi
-polkijuhy
-hi hi hi   
-gtyujikjgc
+
+
+public class AA {
+	  
+		
+	AA()
+	{
+		System.out.println("hello a");
+		
+	}  
+	AA(int x)
+	{  
+//this();
+	System.out.println(x); 
+	
+	} 
+	public static void main(String args[]){  
+		AA a=new AA();  
+		} 
+}
+		  
+
+
